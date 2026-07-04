@@ -38,7 +38,7 @@ YourNameRoll
 Example:
 
 ```
-YourNameRoll/
+YourNameRoll
 ```
 
 3. Add the following content:
